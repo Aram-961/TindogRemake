@@ -1,2 +1,0 @@
-# TindogRemake
-TindogRemake
